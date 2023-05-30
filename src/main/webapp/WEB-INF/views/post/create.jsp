@@ -54,7 +54,7 @@
                     </div>
                     <div class="card-footer my-2">
                         <input class="form-control btn btn-outline-primary" 
-                            type="submit" value="작성 완료" />
+                            type="submit" value="작성 완료"  />
                     </div>
                 </form>
             </div>
