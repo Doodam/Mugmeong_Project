@@ -49,7 +49,7 @@
                         <div class="my-2">
                             <label class="form-label" for="author">작성자 아이디</label>
                             <input class="form-control" 
-                                type="text" id="author" name="author" required />
+                                type="text" id="author" name="author" required   />
                         </div>
                     </div>
                     <div class="card-footer my-2">
